@@ -5,10 +5,10 @@
 * I am a full stack software engineer with nearly 2 years industrial experience, as an organised and highly creative individual, I love the challenges of working within a dynamic and fast paced working environment. The knowledge gained from taking part in countless projects has shaped my ability to adapt quickly, work efficiently, think creatively and work effectively as part of a team or on my own.
 
 ## ⚡ Experience
-* Software Engineer (2019-06 - 2020-12)
+# Software Engineer (Present)
 # Dialog Axita plc & Zincat Technologies
 
-* Software Engineer (2019-06 - 2020-12)
+# Software Engineer (2019-06 - 2020-12)
 # Zeno Innovations
 • Developed a Student Management System for City School of Architecture (CSA).
 • Developed an Export management system for Divron Bioventures.
