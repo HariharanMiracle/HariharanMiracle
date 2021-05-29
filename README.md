@@ -1,8 +1,5 @@
 ### Hello <3 👋
 
-<!--
-**HariharanMiracle/HariharanMiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 😄 About
 
 * I am a full stack software engineer with nearly 2 years industrial experience, as an organised and highly creative individual, I love the challenges of working within a dynamic and fast paced working environment. The knowledge gained from taking part in countless projects has shaped my ability to adapt quickly, work efficiently, think creatively and work effectively as part of a team or on my own.
@@ -39,4 +36,3 @@
     www.linkedin.com/in/hariharanvasudevan-67ba3017b
 
 - ⚡ Fun fact: Badminton, Singing, Drawing, Listening to music, Excercise, Bike rides...
--->
