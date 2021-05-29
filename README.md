@@ -27,11 +27,8 @@
 - 👯 I’m looking to collaborate on Springboot application, Chatbot projects and Web applications...
 - 💬 Ask me about Springboot, Rasa...
 - 📫 How to reach me:
-    Phone
-    +94 77 631 81 36
-    E-mail
-    hariharankim@gmail.com
-    LinkedIn
-    www.linkedin.com/in/hariharanvasudevan-67ba3017b
+    - Phone: +94 77 631 81 36
+    - E-mail: hariharankim@gmail.com
+    - LinkedIn: www.linkedin.com/in/hariharanvasudevan-67ba3017b
 
 - ⚡ Fun fact: Badminton, Singing, Drawing, Listening to music, Excercise, Bike rides...
